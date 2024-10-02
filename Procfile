@@ -1,0 +1,1 @@
+web: pnpm run init && pnpm run dev
